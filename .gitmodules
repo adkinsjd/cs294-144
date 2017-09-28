@@ -1,0 +1,6 @@
+[submodule "Apps"]
+	path = Apps
+	url = git@github.com:adkinsjd/Apps
+[submodule "RIOT-OS"]
+	path = RIOT-OS
+	url = git@github.com:adkinsjd/RIOT-OS
